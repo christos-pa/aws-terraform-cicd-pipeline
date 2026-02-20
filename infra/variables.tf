@@ -1,3 +1,5 @@
+# CI test trigger
+
 variable "aws_region" {
   type        = string
   description = "AWS region"
